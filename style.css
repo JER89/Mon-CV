@@ -1,0 +1,52 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ccc;
+    border: solid 2px rgb(3, 2, 2);
+    font-family: sans-serif;
+}
+
+
+.nom {
+    grid-column: 5 /10;
+    text-align: center;
+}
+
+.exp {
+    grid-column: 5 / 10;
+    padding-right: 50px;
+    text-align: center;
+}
+
+.for {
+    grid-column: 5 / 10;
+    grid-row: 5;
+    text-align: center;
+}
+
+.com {
+    grid-column: 5 / 10;
+    grid-row: 6;
+    text-align: center;
+}
+
+.ben {
+    grid-column: 5 / 10;
+    grid-row: 8;
+    text-align: center;
+}
+
+h1 {
+    font-size: xx-large;
+    text-align: center;
+}
+
+h2 {
+    font-size: medium;
+}
+
+
+
+
